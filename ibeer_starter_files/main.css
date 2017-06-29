@@ -28,12 +28,7 @@ img{
     flex-wrap: wrap;
     margin-bottom: 40px;
 }
-#site-header{
-    /*
-        TODO
-        - Flexbox property here
-    */
-}
+
 #site-header div{
     text-align: center;
     padding: 60px 0 120px 0;
