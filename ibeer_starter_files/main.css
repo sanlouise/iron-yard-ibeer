@@ -84,7 +84,7 @@ aside{
     padding: 20px;
     background-color: #eee;
     box-shadow: 5px 5px 8px rgba( 0, 0, 0, 0.3 );
-    width: 200px;
+    width: 170px;
     flex-direction: row;
     margin-top: -30px;
 }
@@ -104,7 +104,7 @@ article{
     box-shadow: -5px 5px 8px rgba( 0, 0, 0, 0.3 );
     padding: 20px;
     margin-bottom: 20px;
-    width: 553px;
+    width: 500px;
 }
 
 article h2{
